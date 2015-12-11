@@ -1,0 +1,19 @@
+{
+  "name": "@anrry/phonex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrry06/phonex.git"
+  },
+  "author": "anrry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrry06/phonex/issues"
+  },
+  "homepage": "https://github.com/anrry06/phonex#readme"
+}

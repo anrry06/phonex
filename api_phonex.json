@@ -1,0 +1,4867 @@
+{
+    "[m]": {
+        "uniq": [
+            {
+                "str": "m’",
+                "test": "m’"
+            },
+            {
+                "str": "mw",
+                "test": "mW"
+            }
+        ],
+        "front": [
+            {
+                "str": "m",
+                "test": "marché"
+            }
+        ],
+        "middle": [
+            {
+                "str": "m",
+                "test": "améliorer"
+            },
+            {
+                "str": "mm",
+                "test": "immobile"
+            }
+        ],
+        "end": [
+            {
+                "str": "m",
+                "test": "rem"
+            },
+            {
+                "str": "me",
+                "test": "lame"
+            },
+            {
+                "str": "ment",
+                "test": "rament"
+            },
+            {
+                "str": "mes",
+                "test": "crèmes"
+            },
+            {
+                "str": "mme",
+                "test": "femme"
+            },
+            {
+                "str": "mmes",
+                "test": "hommes"
+            },
+            {
+                "str": "ms",
+                "test": "nems"
+            }
+        ]
+    },
+    "[v]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "v",
+                "test": "vouloir"
+            },
+            {
+                "str": "w",
+                "test": "wagon"
+            }
+        ],
+        "middle": [
+            {
+                "str": "bv",
+                "test": "Lefèbvre"
+            },
+            {
+                "str": "v",
+                "test": "évader"
+            },
+            {
+                "str": "w",
+                "test": "thalweg"
+            },
+            {
+                "str": "ʋ",
+                "test": "eʋe"
+            }
+        ],
+        "end": [
+            {
+                "str": "v",
+                "test": "Iaroslavmaglev"
+            },
+            {
+                "str": "ve",
+                "test": "cave"
+            },
+            {
+                "str": "vent",
+                "test": "ils gravent"
+            },
+            {
+                "str": "ves",
+                "test": "grives"
+            }
+        ]
+    },
+    "[f]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "f",
+                "test": "forme"
+            },
+            {
+                "str": "ph",
+                "test": "phare"
+            }
+        ],
+        "middle": [
+            {
+                "str": "f",
+                "test": "défaut"
+            },
+            {
+                "str": "ff",
+                "test": "affaiblir"
+            },
+            {
+                "str": "ph",
+                "test": "graphie"
+            }
+        ],
+        "end": [
+            {
+                "str": "f",
+                "test": "récif"
+            },
+            {
+                "str": "fe",
+                "test": "carafe"
+            },
+            {
+                "str": "fent",
+                "test": "ils agrafent"
+            },
+            {
+                "str": "fes",
+                "test": "girafes"
+            },
+            {
+                "str": "ffe",
+                "test": "gaffe"
+            },
+            {
+                "str": "ffent",
+                "test": "ils coiffent"
+            },
+            {
+                "str": "ffes",
+                "test": "truffes"
+            },
+            {
+                "str": "fs",
+                "test": "suifs"
+            },
+            {
+                "str": "phe",
+                "test": "épitaphe"
+            },
+            {
+                "str": "phes",
+                "test": "paraphes"
+            }
+        ]
+    },
+    "[b]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "b",
+                "test": "ballon"
+            },
+            {
+                "str": "bh",
+                "test": "Bhoutan"
+            }
+        ],
+        "middle": [
+            {
+                "str": "b",
+                "test": "habitude"
+            },
+            {
+                "str": "bb",
+                "test": "abbaye"
+            }
+        ],
+        "end": [
+            {
+                "str": "b",
+                "test": "tub"
+            },
+            {
+                "str": "bs",
+                "test": "tubs"
+            },
+            {
+                "str": "bbe",
+                "test": "labbe"
+            },
+            {
+                "str": "bbes",
+                "test": "labbes"
+            },
+            {
+                "str": "be",
+                "test": "robe"
+            },
+            {
+                "str": "bent",
+                "test": "ils adoubent"
+            },
+            {
+                "str": "bes",
+                "test": "courbes"
+            }
+        ]
+    },
+    "[p]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "p",
+                "test": "parler"
+            }
+        ],
+        "middle": [
+            {
+                "str": "p",
+                "test": "capable"
+            },
+            {
+                "str": "pp",
+                "test": "apprendre"
+            },
+            {
+                "str": "b",
+                "test": "observer"
+            }
+        ],
+        "end": [
+            {
+                "str": "p",
+                "test": "rap"
+            },
+            {
+                "str": "ps",
+                "test": "ceps"
+            },
+            {
+                "str": "pe",
+                "test": "soupe"
+            },
+            {
+                "str": "pent",
+                "test": "ils râpent"
+            },
+            {
+                "str": "pes",
+                "test": "tu loupes"
+            },
+            {
+                "str": "ppe",
+                "test": "grappe"
+            },
+            {
+                "str": "ppent",
+                "test": "ils frappent"
+            },
+            {
+                "str": "ppes",
+                "test": "huppes"
+            }
+        ]
+    },
+    "[d]": {
+        "uniq": [
+            {
+                "str": "d’",
+                "test": "d’"
+            }
+        ],
+        "front": [
+            {
+                "str": "d",
+                "test": "dame"
+            },
+            {
+                "str": "dh",
+                "test": "dharma"
+            }
+        ],
+        "middle": [
+            {
+                "str": "d",
+                "test": "raidir"
+            },
+            {
+                "str": "dd",
+                "test": "addition"
+            },
+            {
+                "str": "d’h",
+                "test": "prud’homme"
+            },
+            {
+                "str": "dh",
+                "test": "adhérer"
+            },
+            {
+                "str": "zz",
+                "test": "pizza"
+            }
+        ],
+        "end": [
+            {
+                "str": "d",
+                "test": "sud"
+            },
+            {
+                "str": "de",
+                "test": "laide"
+            },
+            {
+                "str": "dent",
+                "test": "ils plaident"
+            },
+            {
+                "str": "des",
+                "test": "cordes"
+            },
+            {
+                "str": "ds",
+                "test": "lads"
+            }
+        ]
+    },
+    "[t]": {
+        "uniq": [
+            {
+                "str": "t’",
+                "test": "t’"
+            },
+            {
+                "str": "t",
+                "test": "t"
+            }
+        ],
+        "front": [
+            {
+                "str": "t",
+                "test": "tomber"
+            },
+            {
+                "str": "th",
+                "test": "thé"
+            }
+        ],
+        "middle": [
+            {
+                "str": "t",
+                "test": "détaler"
+            },
+            {
+                "str": "th",
+                "test": "athée"
+            },
+            {
+                "str": "tt",
+                "test": "attention"
+            }
+        ],
+        "end": [
+            {
+                "str": "cht",
+                "test": "yacht"
+            },
+            {
+                "str": "chts",
+                "test": "yachts"
+            },
+            {
+                "str": "t",
+                "test": "kit"
+            },
+            {
+                "str": "te",
+                "test": "pâte"
+            },
+            {
+                "str": "tent",
+                "test": "ils partent"
+            },
+            {
+                "str": "tes",
+                "test": "rites"
+            },
+            {
+                "str": "th",
+                "test": "aneth"
+            },
+            {
+                "str": "the",
+                "test": "Parthe"
+            },
+            {
+                "str": "thes",
+                "test": "plinthes"
+            },
+            {
+                "str": "ths",
+                "test": "aneths"
+            },
+            {
+                "str": "ts",
+                "test": "têts"
+            },
+            {
+                "str": "tt",
+                "test": "watt"
+            },
+            {
+                "str": "tte",
+                "test": "flotte"
+            },
+            {
+                "str": "ttent",
+                "test": "ils battent"
+            },
+            {
+                "str": "ttes",
+                "test": "miettes"
+            },
+            {
+                "str": "tts",
+                "test": "watts"
+            }
+        ]
+    },
+    "[n]": {
+        "uniq": [
+            {
+                "str": "n’",
+                "test": "n’"
+            }
+        ],
+        "front": [
+            {
+                "str": "n",
+                "test": "nuage"
+            }
+        ],
+        "middle": [
+            {
+                "str": "n",
+                "test": "inonder"
+            },
+            {
+                "str": "mn",
+                "test": "damner"
+            },
+            {
+                "str": "nn",
+                "test": "bannir"
+            }
+        ],
+        "end": [
+            {
+                "str": "mne",
+                "test": "automne"
+            },
+            {
+                "str": "mnes",
+                "test": "automnes"
+            },
+            {
+                "str": "n",
+                "test": "khan"
+            },
+            {
+                "str": "ne",
+                "test": "cane"
+            },
+            {
+                "str": "nent",
+                "test": "ils dînent"
+            },
+            {
+                "str": "nes",
+                "test": "cornes"
+            },
+            {
+                "str": "nne",
+                "test": "donne"
+            },
+            {
+                "str": "nnent",
+                "test": "ils prennent"
+            },
+            {
+                "str": "nnes",
+                "test": "cannes"
+            },
+            {
+                "str": "ns",
+                "test": "khans"
+            },
+            {
+                "str": "mne",
+                "test": "automne"
+            }
+        ]
+    },
+    "[ɲ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "gn",
+                "test": "gnon"
+            }
+        ],
+        "middle": [
+            {
+                "str": "ign",
+                "test": "oignon"
+            },
+            {
+                "str": "ñ",
+                "test": "cañon"
+            },
+            {
+                "str": "ny",
+                "test": "canyon"
+            },
+            {
+                "str": "gn",
+                "test": "compagnon"
+            }
+        ],
+        "end": [
+            {
+                "str": "gne",
+                "test": "pagne"
+            },
+            {
+                "str": "gnent",
+                "test": "ils gagnent"
+            },
+            {
+                "str": "gnes",
+                "test": "dignes"
+            },
+            {
+                "str": "igne",
+                "test": "Jodoigne\\ʒo.dɔɲ\\"
+            }
+        ]
+    },
+    "[g]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "g",
+                "test": "garder"
+            },
+            {
+                "str": "gh",
+                "test": "ghetto"
+            },
+            {
+                "str": "gu",
+                "test": "guerre"
+            }
+        ],
+        "middle": [
+            {
+                "str": "g",
+                "test": "regarder"
+            },
+            {
+                "str": "gg",
+                "test": "aggraver"
+            },
+            {
+                "str": "gu",
+                "test": "engueuler"
+            }
+        ],
+        "end": [
+            {
+                "str": "g",
+                "test": "airbag"
+            },
+            {
+                "str": "gg",
+                "test": "brigg"
+            },
+            {
+                "str": "ggs",
+                "test": "briggs"
+            },
+            {
+                "str": "gs",
+                "test": "legs"
+            },
+            {
+                "str": "gue",
+                "test": "bague"
+            },
+            {
+                "str": "guent",
+                "test": "ils lèguent"
+            },
+            {
+                "str": "gues",
+                "test": "bogues"
+            }
+        ]
+    },
+    "[k]": {
+        "uniq": [
+            {
+                "str": "qu’",
+                "test": "qu’"
+            }
+        ],
+        "front": [
+            {
+                "str": "c",
+                "test": "colis"
+            },
+            {
+                "str": "ch",
+                "test": "chrétien"
+            },
+            {
+                "str": "k",
+                "test": "képi"
+            },
+            {
+                "str": "kh",
+                "test": "khmer"
+            },
+            {
+                "str": "q",
+                "test": "Qatar"
+            },
+            {
+                "str": "qu",
+                "test": "quatre"
+            }
+        ],
+        "middle": [
+            {
+                "str": "c",
+                "test": "écart"
+            },
+            {
+                "str": "cc",
+                "test": "accréditer"
+            },
+            {
+                "str": "cch",
+                "test": "saccharose"
+            },
+            {
+                "str": "ch",
+                "test": "monochrome"
+            },
+            {
+                "str": "ck",
+                "test": "racket"
+            },
+            {
+                "str": "cqu",
+                "test": "acquérir"
+            },
+            {
+                "str": "k",
+                "test": "akène"
+            },
+            {
+                "str": "q",
+                "test": "squale"
+            },
+            {
+                "str": "qu",
+                "test": "requérir"
+            },
+            {
+                "str": "kk",
+                "test": "trekker"
+            },
+            {
+                "str": "kh",
+                "test": "hypokhâgne"
+            }
+        ],
+        "end": [
+            {
+                "str": "c",
+                "test": "lac"
+            },
+            {
+                "str": "ch",
+                "test": "varech"
+            },
+            {
+                "str": "chs",
+                "test": "aurochs"
+            },
+            {
+                "str": "ck",
+                "test": "yack"
+            },
+            {
+                "str": "cks",
+                "test": "packs"
+            },
+            {
+                "str": "cs",
+                "test": "sacs"
+            },
+            {
+                "str": "k",
+                "test": "tank"
+            },
+            {
+                "str": "kh",
+                "test": "kazakh"
+            },
+            {
+                "str": "khs",
+                "test": "kazakhs"
+            },
+            {
+                "str": "ks",
+                "test": "tanks"
+            },
+            {
+                "str": "q",
+                "test": "cinqcoq"
+            },
+            {
+                "str": "qs",
+                "test": "coqs"
+            },
+            {
+                "str": "que",
+                "test": "laque"
+            },
+            {
+                "str": "quent",
+                "test": "ils risquent"
+            },
+            {
+                "str": "ques",
+                "test": "briques"
+            },
+            {
+                "str": "qu",
+                "test": "quelqu"
+            }
+        ]
+    },
+    "[ʒ]": {
+        "uniq": [
+            {
+                "str": "j’",
+                "test": "j’"
+            }
+        ],
+        "front": [
+            {
+                "str": "g",
+                "test": "girafe"
+            },
+            {
+                "str": "ge",
+                "test": "geai"
+            },
+            {
+                "str": "j",
+                "test": "jardin"
+            }
+        ],
+        "middle": [
+            {
+                "str": "g",
+                "test": "région"
+            },
+            {
+                "str": "j",
+                "test": "déjeuner"
+            }
+        ],
+        "end": [
+            {
+                "str": "ge",
+                "test": "cage"
+            },
+            {
+                "str": "gent",
+                "test": "ils changent"
+            },
+            {
+                "str": "ges",
+                "test": "loges"
+            },
+            {
+                "str": "je",
+                "test": "barje"
+            },
+            {
+                "str": "j",
+                "test": "kalij"
+            }
+        ]
+    },
+    "[ʃ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "ch",
+                "test": "champion"
+            },
+            {
+                "str": "sch",
+                "test": "schéma"
+            },
+            {
+                "str": "sh",
+                "test": "shoot"
+            }
+        ],
+        "middle": [
+            {
+                "str": "ch",
+                "test": "détacher"
+            },
+            {
+                "str": "sh",
+                "test": "padishahs"
+            },
+            {
+                "str": "sc",
+                "test": "fascisme"
+            },
+            {
+                "str": "sch",
+                "test": "micaschiste"
+            }
+        ],
+        "end": [
+            {
+                "str": "ch",
+                "test": "kalach"
+            },
+            {
+                "str": "che",
+                "test": "vache"
+            },
+            {
+                "str": "chent",
+                "test": "ils lèchent"
+            },
+            {
+                "str": "ches",
+                "test": "bêches"
+            },
+            {
+                "str": "sh",
+                "test": "cash"
+            }
+        ]
+    },
+    "[z]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "z",
+                "test": "zèbre"
+            }
+        ],
+        "middle": [
+            {
+                "str": "s",
+                "test": "désirer"
+            },
+            {
+                "str": "z",
+                "test": "bazar"
+            },
+            {
+                "str": "zz",
+                "test": "pizza"
+            }
+        ],
+        "end": [
+            {
+                "str": "ss",
+                "test": "troisamis"
+            },
+            {
+                "str": "se",
+                "test": "base"
+            },
+            {
+                "str": "sent",
+                "test": "ils rasent"
+            },
+            {
+                "str": "ses",
+                "test": "roses"
+            },
+            {
+                "str": "xx",
+                "test": "deuxavions"
+            },
+            {
+                "str": "z",
+                "test": "gaz"
+            },
+            {
+                "str": "ze",
+                "test": "douze"
+            },
+            {
+                "str": "zent",
+                "test": "ils gazent"
+            },
+            {
+                "str": "zes",
+                "test": "bronzes"
+            }
+        ]
+    },
+    "[s]": {
+        "uniq": [
+            {
+                "str": "s’",
+                "test": "s’"
+            },
+            {
+                "str": "ç’",
+                "test": "ç’"
+            }
+        ],
+        "front": [
+            {
+                "str": "sc",
+                "test": "sceau"
+            },
+            {
+                "str": "c",
+                "test": "celui"
+            },
+            {
+                "str": "ç",
+                "test": "ça"
+            },
+            {
+                "str": "s",
+                "test": "sel"
+            }
+        ],
+        "middle": [
+            {
+                "str": "c",
+                "test": "décider"
+            },
+            {
+                "str": "ç",
+                "test": "façon"
+            },
+            {
+                "str": "s",
+                "test": "asymétrie"
+            },
+            {
+                "str": "sc",
+                "test": "descendre"
+            },
+            {
+                "str": "sç",
+                "test": "fasça"
+            },
+            {
+                "str": "ss",
+                "test": "essayer"
+            },
+            {
+                "str": "sth",
+                "test": "asthme"
+            }
+        ],
+        "end": [
+            {
+                "str": "ce",
+                "test": "race"
+            },
+            {
+                "str": "cent",
+                "test": "ils rincent"
+            },
+            {
+                "str": "ces",
+                "test": "pinces"
+            },
+            {
+                "str": "s",
+                "test": "ananas"
+            },
+            {
+                "str": "ss",
+                "test": "stress"
+            },
+            {
+                "str": "se",
+                "test": "torse"
+            },
+            {
+                "str": "sse",
+                "test": "tresse"
+            },
+            {
+                "str": "ssent",
+                "test": "ils laissent"
+            },
+            {
+                "str": "sses",
+                "test": "brosses"
+            }
+        ]
+    },
+    "[ʁ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "r",
+                "test": "repas"
+            },
+            {
+                "str": "rh",
+                "test": "rhéostat"
+            },
+            {
+                "str": "rr",
+                "test": "rromani"
+            }
+        ],
+        "middle": [
+            {
+                "str": "r",
+                "test": "carotte"
+            },
+            {
+                "str": "rh",
+                "test": "enrhumer"
+            },
+            {
+                "str": "rr",
+                "test": "arrivée"
+            },
+            {
+                "str": "gh",
+                "test": "songhaï"
+            }
+        ],
+        "end": [
+            {
+                "str": "r",
+                "test": "air"
+            },
+            {
+                "str": "rc",
+                "test": "porc"
+            },
+            {
+                "str": "rcs",
+                "test": "porcs"
+            },
+            {
+                "str": "rd",
+                "test": "canard"
+            },
+            {
+                "str": "rds",
+                "test": "pinards"
+            },
+            {
+                "str": "re",
+                "test": "lire"
+            },
+            {
+                "str": "rent",
+                "test": "ils confèrent"
+            },
+            {
+                "str": "res",
+                "test": "mares"
+            },
+            {
+                "str": "rf",
+                "test": "serf"
+            },
+            {
+                "str": "rfs",
+                "test": "cerfs"
+            },
+            {
+                "str": "rps",
+                "test": "corps"
+            },
+            {
+                "str": "rre",
+                "test": "beurre"
+            },
+            {
+                "str": "rrent",
+                "test": "ils amarrent"
+            },
+            {
+                "str": "rres",
+                "test": "barres"
+            },
+            {
+                "str": "rrhe",
+                "test": "j’arrhe"
+            },
+            {
+                "str": "rrhes",
+                "test": "arrhes"
+            },
+            {
+                "str": "rs",
+                "test": "alors"
+            },
+            {
+                "str": "rt",
+                "test": "mort"
+            },
+            {
+                "str": "rts",
+                "test": "arts"
+            },
+            {
+                "str": "gh",
+                "test": "tifinagh"
+            }
+        ]
+    },
+    "[l]": {
+        "uniq": [
+            {
+                "str": "l’",
+                "test": "l’"
+            }
+        ],
+        "front": [
+            {
+                "str": "l",
+                "test": "langue"
+            }
+        ],
+        "middle": [
+            {
+                "str": "l",
+                "test": "aliment"
+            },
+            {
+                "str": "ll",
+                "test": "allumer"
+            },
+            {
+                "str": "lll",
+                "test": "valllisnérie"
+            }
+        ],
+        "end": [
+            {
+                "str": "l",
+                "test": "sel"
+            },
+            {
+                "str": "ll",
+                "test": "mandrill"
+            },
+            {
+                "str": "le",
+                "test": "cale"
+            },
+            {
+                "str": "lent",
+                "test": "ils parlent"
+            },
+            {
+                "str": "les",
+                "test": "files"
+            },
+            {
+                "str": "lle",
+                "test": "balle"
+            },
+            {
+                "str": "llent",
+                "test": "ils appellent"
+            },
+            {
+                "str": "lles",
+                "test": "salles"
+            },
+            {
+                "str": "les",
+                "test": "salles"
+            },
+            {
+                "str": "ls",
+                "test": "sols"
+            }
+        ]
+    },
+    "[j]": {
+        "uniq": [
+            {
+                "str": "y",
+                "test": "il y a"
+            }
+        ],
+        "front": [
+            {
+                "str": "hi",
+                "test": "hiatus"
+            },
+            {
+                "str": "i",
+                "test": "iambe"
+            },
+            {
+                "str": "y",
+                "test": "yaourt"
+            }
+        ],
+        "middle": [
+            {
+                "str": "i",
+                "test": "chien"
+            },
+            {
+                "str": "ï",
+                "test": "païen"
+            },
+            {
+                "str": "ill",
+                "test": "mouiller"
+            },
+            {
+                "str": "glie",
+                "test": "de Broglie\\də bʁœj\\"
+            },
+            {
+                "str": "gui",
+                "test": "Laguiole\\la.jɔl\\"
+            },
+            {
+                "str": "y",
+                "test": "crayon"
+            },
+            {
+                "str": "yi",
+                "test": "oyiez"
+            }
+        ],
+        "end": [
+            {
+                "str": "i",
+                "test": "Ciskei"
+            },
+            {
+                "str": "ïe",
+                "test": "pagaïe"
+            },
+            {
+                "str": "ï",
+                "test": "thaïbonsaï"
+            },
+            {
+                "str": "il",
+                "test": "recueil"
+            },
+            {
+                "str": "ille",
+                "test": "grille"
+            },
+            {
+                "str": "illent",
+                "test": "ils braillent"
+            },
+            {
+                "str": "illes",
+                "test": "mailles"
+            },
+            {
+                "str": "y",
+                "test": "sky"
+            },
+            {
+                "str": "ye",
+                "test": "il paye"
+            },
+            {
+                "str": "yent",
+                "test": "ils rayent"
+            },
+            {
+                "str": "yes",
+                "test": "tu balayes"
+            }
+        ]
+    },
+    "[w]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "ho",
+                "test": "hoirie"
+            },
+            {
+                "str": "hou",
+                "test": "houais"
+            },
+            {
+                "str": "o",
+                "test": "oindre"
+            },
+            {
+                "str": "ou",
+                "test": "oui"
+            },
+            {
+                "str": "w",
+                "test": "watt"
+            }
+        ],
+        "middle": [
+            {
+                "str": "hou",
+                "test": "cacahouète"
+            },
+            {
+                "str": "hu",
+                "test": "cacahuète"
+            },
+            {
+                "str": "o",
+                "test": "poire, moelle, asseoir"
+            },
+            {
+                "str": "ou",
+                "test": "couenne, réjouir"
+            },
+            {
+                "str": "gui",
+                "test": "Laguiole\\la.jɔl\\"
+            },
+            {
+                "str": "u",
+                "test": "aquarelle"
+            },
+            {
+                "str": "w",
+                "test": "awélé, Rwanda, swahili"
+            }
+        ],
+        "end": []
+    },
+    "[ɥ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "hu",
+                "test": "huit"
+            }
+        ],
+        "middle": [
+            {
+                "str": "hu",
+                "test": "Rhuis"
+            },
+            {
+                "str": "u",
+                "test": "nuit, duel"
+            }
+        ],
+        "end": []
+    },
+    "[i]": {
+        "uniq": [
+            {
+                "str": "hi",
+                "test": "hi"
+            },
+            {
+                "str": "hie",
+                "test": "hie"
+            },
+            {
+                "str": "y",
+                "test": "y"
+            }
+        ],
+        "front": [
+            {
+                "str": "hi",
+                "test": "hideux"
+            },
+            {
+                "str": "hy",
+                "test": "hydrogène"
+            },
+            {
+                "str": "i",
+                "test": "idée"
+            },
+            {
+                "str": "î",
+                "test": "île"
+            },
+            {
+                "str": "y",
+                "test": "ypérite"
+            }
+        ],
+        "middle": [
+            {
+                "str": "i",
+                "test": "fille"
+            },
+            {
+                "str": "î",
+                "test": "abîme"
+            },
+            {
+                "str": "ï",
+                "test": "maïs"
+            },
+            {
+                "str": "y",
+                "test": "gypse"
+            },
+            {
+                "str": "ÿ",
+                "test": "L’Haÿ-les-Roses"
+            }
+        ],
+        "end": [
+            {
+                "str": "hi",
+                "test": "trahi"
+            },
+            {
+                "str": "hie",
+                "test": "trahie"
+            },
+            {
+                "str": "hies",
+                "test": "trahies"
+            },
+            {
+                "str": "his",
+                "test": "trahis"
+            },
+            {
+                "str": "hit",
+                "test": "trahit"
+            },
+            {
+                "str": "i",
+                "test": "guéri"
+            },
+            {
+                "str": "ï",
+                "test": "haï"
+            },
+            {
+                "str": "ie",
+                "test": "amie"
+            },
+            {
+                "str": "ïe",
+                "test": "haïe"
+            },
+            {
+                "str": "ient",
+                "test": "nient"
+            },
+            {
+                "str": "i\\[ə\\]",
+                "test": "nient"
+            },
+            {
+                "str": "ies",
+                "test": "chéries"
+            },
+            {
+                "str": "ïes",
+                "test": "haïes"
+            },
+            {
+                "str": "il",
+                "test": "fusil"
+            },
+            {
+                "str": "ils",
+                "test": "fusils"
+            },
+            {
+                "str": "is",
+                "test": "farcis"
+            },
+            {
+                "str": "ïs",
+                "test": "haïs"
+            },
+            {
+                "str": "it",
+                "test": "frit"
+            },
+            {
+                "str": "ît",
+                "test": "qu’il fît"
+            },
+            {
+                "str": "its",
+                "test": "puits"
+            },
+            {
+                "str": "y",
+                "test": "ferry"
+            },
+            {
+                "str": "ys",
+                "test": "ferrys"
+            }
+        ]
+    },
+    "[e]": {
+        "uniq": [
+            {
+                "str": "eh",
+                "test": "eh"
+            },
+            {
+                "str": "et",
+                "test": "et"
+            },
+            {
+                "str": "hé",
+                "test": "hé"
+            }
+        ],
+        "front": [
+            {
+                "str": "æ",
+                "test": "æpyornis"
+            },
+
+            {
+                "str": "é",
+                "test": "étudier"
+            },
+            {
+                "str": "hé",
+                "test": "hélas"
+            },
+            {
+                "str": "œ",
+                "test": "œcuménique"
+            }
+        ],
+        "middle": [
+            {
+                "str": "æ",
+                "test": "cæcum"
+            },
+            {
+                "str": "é",
+                "test": "créer"
+            },
+            {
+                "str": "œ",
+                "test": "fœtus"
+            }
+        ],
+        "end": [
+            {
+                "str": "ae",
+                "test": "supernovae"
+            },
+            {
+                "str": "ai",
+                "test": ""
+            },
+            {
+                "str": "é",
+                "test": "marché"
+            },
+            {
+                "str": "ed",
+                "test": "pied"
+            },
+            {
+                "str": "eds",
+                "test": "tu sieds"
+            },
+            {
+                "str": "ée",
+                "test": "dictée"
+            },
+            {
+                "str": "éent",
+                "test": "créent"
+            },
+            {
+                "str": "ées",
+                "test": "fées"
+            },
+            {
+                "str": "ef",
+                "test": "clef"
+            },
+            {
+                "str": "efs",
+                "test": "clefs"
+            },
+            {
+                "str": "er",
+                "test": "parler"
+            },
+            {
+                "str": "és",
+                "test": "carrés"
+            },
+            {
+                "str": "ez",
+                "test": "chez"
+            },
+            {
+                "str": "ë",
+                "test": "canoë"
+            },
+            {
+                "str": "ee",
+                "test": "nee"
+            }
+        ]
+    },
+    "[ɛ]": {
+        "uniq": [
+            {
+                "str": "es",
+                "test": "tu es"
+            },
+            {
+                "str": "est",
+                "test": "il est"
+            },
+            {
+                "str": "haie",
+                "test": "haie"
+            },
+            {
+                "str": "haies",
+                "test": "haies"
+            },
+            {
+                "str": "hais",
+                "test": "je (ou tu) hais"
+            },
+            {
+                "str": "hait",
+                "test": "il hait"
+            }
+        ],
+        "front": [
+            {
+                "str": "ai",
+                "test": "aimable"
+            },
+            {
+                "str": "aî",
+                "test": "aîné"
+            },
+            {
+                "str": "el",
+                "test": "elle"
+            },
+            {
+                "str": "ê",
+                "test": "être"
+            },
+            {
+                "str": "hai",
+                "test": "haine"
+            },
+            {
+                "str": "he",
+                "test": "hermine"
+            },
+            {
+                "str": "hê",
+                "test": "hêtre"
+            },
+            {
+                "str": "ei",
+                "test": ""
+            }
+        ],
+        "middle": [
+            {
+                "str": "ae",
+                "test": "taekwondo"
+            },
+            {
+                "str": "ai",
+                "test": "chaise"
+            },
+            {
+                "str": "aî",
+                "test": "fraîcheur"
+            },
+            {
+                "str": "è",
+                "test": "crème"
+            },
+            {
+                "str": "ê",
+                "test": "crête"
+            },
+            {
+                "str": "ë",
+                "test": "Noël"
+            },
+            {
+                "str": "ei",
+                "test": "peigne"
+            }
+        ],
+        "end": [
+            {
+                "str": "ai",
+                "test": "balai"
+            },
+            {
+                "str": "aid",
+                "test": "laid"
+            },
+            {
+                "str": "aids",
+                "test": "laids"
+            },
+            {
+                "str": "aie",
+                "test": "craie"
+            },
+            {
+                "str": "aient",
+                "test": "ils faisaient"
+            },
+            {
+                "str": "aies",
+                "test": "braies"
+            },
+            {
+                "str": "ais",
+                "test": "frais"
+            },
+            {
+                "str": "ait",
+                "test": "trait"
+            },
+            {
+                "str": "aît",
+                "test": "il paraît"
+            },
+            {
+                "str": "aits",
+                "test": "parfaits"
+            },
+            {
+                "str": "aix",
+                "test": "paix"
+            },
+            {
+                "str": "ay",
+                "test": "margay"
+            },
+            {
+                "str": "ect",
+                "test": "respect"
+            },
+            {
+                "str": "ects",
+                "test": "respects"
+            },
+            {
+                "str": "ès",
+                "test": "près"
+            },
+            {
+                "str": "et",
+                "test": "lacet"
+            },
+            {
+                "str": "êt",
+                "test": "prêt"
+            },
+            {
+                "str": "ets",
+                "test": "mets"
+            },
+            {
+                "str": "êts",
+                "test": "crêts"
+            },
+            {
+                "str": "ey",
+                "test": "bey"
+            }
+        ]
+    },
+    "[µ]": {
+        "uniq": [
+            {
+                "str": "hein",
+                "test": "hein"
+            },
+            {
+                "str": "hun",
+                "test": "hun"
+            },
+            {
+                "str": "un",
+                "test": "un"
+            }
+        ],
+        "front": [
+            {
+                "str": "ain",
+                "test": "ainsi"
+            },
+            {
+                "str": "hin",
+                "test": "hindouisme"
+            },
+            {
+                "str": "im",
+                "test": "imberbe"
+            },
+            {
+                "str": "in",
+                "test": "interne"
+            },
+            {
+                "str": "un",
+                "test": "Untel"
+            }
+        ],
+        "middle": [
+            {
+                "str": "ain",
+                "test": "craintif"
+            },
+            {
+                "str": "ein",
+                "test": "peindre"
+            },
+            {
+                "str": "im",
+                "test": "grimper"
+            },
+            {
+                "str": "in",
+                "test": "tinter"
+            },
+            {
+                "str": "yn",
+                "test": "syndic"
+            },
+            {
+                "str": "ym",
+                "test": "sympathique"
+            },
+            {
+                "str": "un",
+                "test": "emprunter"
+            }
+        ],
+        "end": [
+            {
+                "str": "aim",
+                "test": "faim"
+            },
+            {
+                "str": "aims",
+                "test": "faims"
+            },
+            {
+                "str": "ain",
+                "test": "refrain"
+            },
+            {
+                "str": "ainc",
+                "test": "il vainc"
+            },
+            {
+                "str": "aincs",
+                "test": "tu vaincs"
+            },
+            {
+                "str": "ains",
+                "test": "tu crains"
+            },
+            {
+                "str": "aint",
+                "test": "il se plaint"
+            },
+            {
+                "str": "ein",
+                "test": "frein"
+            },
+            {
+                "str": "eins",
+                "test": "seins"
+            },
+            {
+                "str": "eing",
+                "test": "seing"
+            },
+            {
+                "str": "eings",
+                "test": "seings"
+            },
+            {
+                "str": "eint",
+                "test": "peint"
+            },
+            {
+                "str": "eints",
+                "test": "teints"
+            },
+            {
+                "str": "in",
+                "test": "matin"
+            },
+            {
+                "str": "inct",
+                "test": "instinct"
+            },
+            {
+                "str": "incts",
+                "test": "instincts"
+            },
+            {
+                "str": "ingt",
+                "test": "vingt"
+            },
+            {
+                "str": "ingts",
+                "test": "quatre-vingts"
+            },
+            {
+                "str": "inq",
+                "test": "cinqcents"
+            },
+            {
+                "str": "ins",
+                "test": "vins"
+            },
+            {
+                "str": "int",
+                "test": "il revint"
+            },
+            {
+                "str": "înt",
+                "test": "qu’il retînt"
+            },
+            {
+                "str": "ints",
+                "test": "points"
+            },
+            {
+                "str": "ing",
+                "test": "coing"
+            },
+            {
+                "str": "ings",
+                "test": "coings"
+            },
+            {
+                "str": "um",
+                "test": "parfum"
+            },
+            {
+                "str": "ums",
+                "test": "parfums"
+            },
+            {
+                "str": "un",
+                "test": "brun"
+            },
+            {
+                "str": "uns",
+                "test": "bruns"
+            },
+            {
+                "str": "unt",
+                "test": "emprunt"
+            },
+            {
+                "str": "unts",
+                "test": "emprunts"
+            }
+        ]
+    },
+    "[œ]": {
+        "uniq": [
+            {
+                "str": "hun",
+                "test": "hun"
+            },
+            {
+                "str": "un",
+                "test": "un"
+            }
+        ],
+        "front": [
+            {
+                "str": "hum",
+                "test": "humble"
+            },
+            {
+                "str": "un",
+                "test": "Untel"
+            }
+        ],
+        "middle": [
+            {
+                "str": "un",
+                "test": "emprunter"
+            }
+        ],
+        "end": [
+            {
+                "str": "um",
+                "test": "parfum"
+            },
+            {
+                "str": "ums",
+                "test": "parfums"
+            },
+            {
+                "str": "un",
+                "test": "brun"
+            },
+            {
+                "str": "uns",
+                "test": "bruns"
+            },
+            {
+                "str": "unt",
+                "test": "emprunt"
+            },
+            {
+                "str": "unts",
+                "test": "emprunts"
+            }
+        ]
+    },
+    "[ə]": {
+        "uniq": [
+            {
+                "str": "euh",
+                "test": "euh"
+            },
+            {
+                "str": "eux",
+                "test": "eux"
+            },
+            {
+                "str": "œufs",
+                "test": "des œufs"
+            }
+        ],
+        "front": [
+            {
+                "str": "eu",
+                "test": "euphorie"
+            },
+            {
+                "str": "heu",
+                "test": "heureux"
+            }
+        ],
+        "middle": [
+            {
+                "str": "eu",
+                "test": "creuser"
+            },
+            {
+                "str": "eû",
+                "test": "jeûne"
+            },
+            {
+                "str": "e",
+                "test": "lever"
+            }            
+        ],
+        "end": [
+            {
+                "str": "ent",
+                "test": "ils disent"
+            },
+            {
+                "str": "es",
+                "test": "grives"
+            },
+            {
+                "str": "e",
+                "test": "pagne"
+            }
+        ]
+    },
+    "[əə]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "eu",
+                "test": "pneu"
+            },
+            {
+                "str": "eue",
+                "test": "lieue"
+            },
+            {
+                "str": "eues",
+                "test": "lieues"
+            },
+            {
+                "str": "eus",
+                "test": "des pneus"
+            },
+            {
+                "str": "eux",
+                "test": "creux"
+            },
+            {
+                "str": "œu",
+                "test": "vœu"
+            },
+            {
+                "str": "œufs",
+                "test": "des bœufs"
+            },
+            {
+                "str": "œux",
+                "test": "vœux"
+            }
+        ]
+    },
+    "[y]": {
+        "uniq": [
+            {
+                "str": "eu",
+                "test": "il a eu"
+            },
+            {
+                "str": "eus",
+                "test": "j’eus ou tu eus"
+            },
+            {
+                "str": "eut",
+                "test": "il eut"
+            },
+            {
+                "str": "eût",
+                "test": "il eût"
+            },
+            {
+                "str": "hue",
+                "test": "hue"
+            },
+            {
+                "str": "huent",
+                "test": "ils huent"
+            },
+            {
+                "str": "hues",
+                "test": "tu hues"
+            }
+        ],
+        "front": [
+            {
+                "str": "hu",
+                "test": "huer"
+            },
+            {
+                "str": "u",
+                "test": "utiliser"
+            },
+            {
+                "str": "eu",
+                "test": "eusse"
+            }
+        ],
+        "middle": [
+            {
+                "str": "hu",
+                "test": "ahuri"
+            },
+            {
+                "str": "u",
+                "test": "crudité"
+            },
+            {
+                "str": "û",
+                "test": "sûr"
+            }
+        ],
+        "end": [
+            {
+                "str": "hu",
+                "test": "tohu-bohu"
+            },
+            {
+                "str": "hue",
+                "test": "cohue"
+            },
+            {
+                "str": "hues",
+                "test": "cohues"
+            },
+            {
+                "str": "hus",
+                "test": "tohu-bohus"
+            },
+            {
+                "str": "hut",
+                "test": "chahut"
+            },
+            {
+                "str": "u",
+                "test": "écru"
+            },
+            {
+                "str": "û",
+                "test": "dû"
+            },
+            {
+                "str": "ue",
+                "test": "crue"
+            },
+            {
+                "str": "uë",
+                "test": "aiguë"
+            },
+            {
+                "str": "uent",
+                "test": "ils muent"
+            },
+            {
+                "str": "ues",
+                "test": "bévues"
+            },
+            {
+                "str": "ul",
+                "test": "cul"
+            },
+            {
+                "str": "uls",
+                "test": "culs"
+            },
+            {
+                "str": "us",
+                "test": "pus"
+            },
+            {
+                "str": "ûs",
+                "test": "tu crûs"
+            },
+            {
+                "str": "ut",
+                "test": "chalut"
+            },
+            {
+                "str": "ût",
+                "test": "fût"
+            },
+            {
+                "str": "uts",
+                "test": "chaluts"
+            }
+        ]
+    },
+    "[u]": {
+        "uniq": [
+            {
+                "str": "hou",
+                "test": "hou"
+            },
+            {
+                "str": "houe",
+                "test": "houe"
+            },
+            {
+                "str": "houx",
+                "test": "houx"
+            },
+            {
+                "str": "ou",
+                "test": "ou"
+            },
+            {
+                "str": "où",
+                "test": "où"
+            }
+        ],
+        "front": [
+            {
+                "str": "aoû",
+                "test": "août"
+            },
+            {
+                "str": "hou",
+                "test": "houblon"
+            },
+            {
+                "str": "ou",
+                "test": "ouvrir"
+            }
+        ],
+        "middle": [
+            {
+                "str": "aou",
+                "test": "saouler"
+            },
+            {
+                "str": "oo",
+                "test": "zoom"
+            },
+            {
+                "str": "hou",
+                "test": "cacahouète"
+            },
+            {
+                "str": "ou",
+                "test": "courage"
+            },
+            {
+                "str": "oû",
+                "test": "goûter"
+            },
+            {
+                "str": "ow",
+                "test": "clown"
+            },
+            {
+                "str": "w",
+                "test": "awélé, Rwanda, swahili"
+            }
+        ],
+        "end": [
+            {
+                "str": "aoul",
+                "test": "saoul"
+            },
+            {
+                "str": "aouls",
+                "test": "saouls"
+            },
+            {
+                "str": "ew",
+                "test": "interview"
+            },
+            {
+                "str": "ou",
+                "test": "clou"
+            },
+            {
+                "str": "oue",
+                "test": "joue"
+            },
+            {
+                "str": "ouent",
+                "test": "ils louent"
+            },
+            {
+                "str": "oues",
+                "test": "proues"
+            },
+            {
+                "str": "oo",
+                "test": "igloo"
+            },
+            {
+                "str": "oup",
+                "test": "loup"
+            },
+            {
+                "str": "oups",
+                "test": "loups"
+            },
+            {
+                "str": "ous",
+                "test": "trous"
+            },
+            {
+                "str": "out",
+                "test": "tout"
+            },
+            {
+                "str": "oût",
+                "test": "coût"
+            },
+            {
+                "str": "oûts",
+                "test": "coûts"
+            },
+            {
+                "str": "oux",
+                "test": "doux"
+            },
+            {
+                "str": "u'",
+                "test": "kung-fu"
+            },
+            {
+                "str": "oug",
+                "test": "joug"
+            },
+            {
+                "str": "ougs",
+                "test": "jougs"
+            }
+        ]
+    },
+    "[o]": {
+        "uniq": [
+            {
+                "str": "aulx",
+                "test": "aulx"
+            },
+            {
+                "str": "eau",
+                "test": "eau"
+            },
+            {
+                "str": "eaux",
+                "test": "eaux"
+            },
+            {
+                "str": "ao",
+                "test": "extraordinaire"
+            },
+            {
+                "str": "haut",
+                "test": "haut"
+            },
+            {
+                "str": "hauts",
+                "test": "hauts"
+            },
+            {
+                "str": "ho",
+                "test": "ho"
+            },
+            {
+                "str": "ô",
+                "test": "ô"
+            },
+            {
+                "str": "oh",
+                "test": "oh"
+            },
+            {
+                "str": "os",
+                "test": "les os"
+            },
+            {
+                "str": "how",
+                "test": "how"
+            }
+        ],
+        "front": [
+            {
+                "str": "au",
+                "test": "automate"
+            },
+            {
+                "str": "hau",
+                "test": "hauban"
+            },
+            {
+                "str": "haut",
+                "test": "haut-fond"
+            },
+            {
+                "str": "hauts",
+                "test": "hauts-fonds"
+            },
+            {
+                "str": "ho",
+                "test": "horriblehome"
+            },
+            {
+                "str": "hô",
+                "test": "hôtelhôte"
+            },
+            {
+                "str": "oh",
+                "test": "ohm"
+            },
+            {
+                "str": "o",
+                "test": "ozone"
+            }
+        ],
+        "middle": [
+            {
+                "str": "au",
+                "test": "daubebaume"
+            },
+            {
+                "str": "eau",
+                "test": ""
+            },
+            {
+                "str": "hau",
+                "test": "rehausser"
+            },
+            {
+                "str": "o",
+                "test": "collerzone"
+            },
+            {
+                "str": "ô",
+                "test": "cônecôtele vôtre"
+            },
+            {
+                "str": "oa",
+                "test": "goal"
+            },
+            {
+                "str": "oo",
+                "test": "alcoolique"
+            }
+        ],
+        "end": [
+            {
+                "str": "au",
+                "test": "gruau"
+            },
+            {
+                "str": "aud",
+                "test": "chaud"
+            },
+            {
+                "str": "auds",
+                "test": "chauds"
+            },
+            {
+                "str": "aut",
+                "test": "il vaut"
+            },
+            {
+                "str": "auts",
+                "test": "soubresauts"
+            },
+            {
+                "str": "aux",
+                "test": "faux"
+            },
+            {
+                "str": "aulx",
+                "test": "aulx"
+            },
+            {
+                "str": "haut",
+                "test": "là-haut"
+            },
+            {
+                "str": "hauts",
+                "test": "contre-hauts"
+            },
+            {
+                "str": "eau",
+                "test": "château"
+            },
+            {
+                "str": "eaux",
+                "test": "chapeaux"
+            },
+            {
+                "str": "o",
+                "test": "écho"
+            },
+            {
+                "str": "ô",
+                "test": "rô"
+            },
+            {
+                "str": "oc",
+                "test": "broc"
+            },
+            {
+                "str": "op",
+                "test": "galop"
+            },
+            {
+                "str": "os",
+                "test": "enclos"
+            },
+            {
+                "str": "ot",
+                "test": "robot"
+            },
+            {
+                "str": "ots",
+                "test": "mots"
+            },
+            {
+                "str": "ôt",
+                "test": "rôt"
+            },
+            {
+                "str": "ow",
+                "test": "bungalow"
+            },
+            {
+                "str": "aw",
+                "test": "daw"
+            },
+            {
+                "str": "auw",
+                "test": "dauw"
+            }
+        ]
+    },
+    "[ɔ]": {
+        "uniq": [
+            {
+                "str": "hon",
+                "test": "hon"
+            },
+            {
+                "str": "on",
+                "test": "on"
+            },
+            {
+                "str": "ont",
+                "test": "ils ont"
+            }
+        ],
+        "front": [
+            {
+                "str": "hon",
+                "test": "honte"
+            },
+            {
+                "str": "om",
+                "test": "ombre"
+            },
+            {
+                "str": "on",
+                "test": "ongle"
+            }
+        ],
+        "middle": [
+            {
+                "str": "om",
+                "test": "trompe"
+            },
+            {
+                "str": "on",
+                "test": "foncer"
+            }
+        ],
+        "end": [
+            {
+                "str": "om",
+                "test": "pronom"
+            },
+            {
+                "str": "omb",
+                "test": "plomb"
+            },
+            {
+                "str": "ombs",
+                "test": "plombs"
+            },
+            {
+                "str": "ompt",
+                "test": "prompt"
+            },
+            {
+                "str": "omps",
+                "test": "romps"
+            },
+            {
+                "str": "ompts",
+                "test": "prompts"
+            },
+            {
+                "str": "oms",
+                "test": "noms"
+            },
+            {
+                "str": "on",
+                "test": "mon"
+            },
+            {
+                "str": "onc",
+                "test": "tronc"
+            },
+            {
+                "str": "oncs",
+                "test": "troncs"
+            },
+            {
+                "str": "ond",
+                "test": "gond"
+            },
+            {
+                "str": "onds",
+                "test": "fonds"
+            },
+            {
+                "str": "ong",
+                "test": "long"
+            },
+            {
+                "str": "ongs",
+                "test": "longs"
+            },
+            {
+                "str": "ons",
+                "test": "crayons"
+            },
+            {
+                "str": "ont",
+                "test": "ils font"
+            },
+            {
+                "str": "onts",
+                "test": "ponts"
+            }
+        ]
+    },
+    "[ɑ]": {
+        "uniq": [
+            {
+                "str": "an",
+                "test": "an"
+            },
+            {
+                "str": "ans",
+                "test": "ans"
+            },
+            {
+                "str": "en",
+                "test": "en"
+            },
+            {
+                "str": "han",
+                "test": "han"
+            }
+        ],
+        "front": [
+            {
+                "str": "am",
+                "test": "ambulance"
+            },
+            {
+                "str": "an",
+                "test": "antilope"
+            },
+            {
+                "str": "em",
+                "test": "embrasser"
+            },
+            {
+                "str": "en",
+                "test": "entier"
+            },
+            {
+                "str": "ham",
+                "test": "hamburger"
+            },
+            {
+                "str": "han",
+                "test": "hanter"
+            }
+        ],
+        "middle": [
+            {
+                "str": "aën",
+                "test": "Saint-Saëns"
+            },
+            {
+                "str": "am",
+                "test": "chambre"
+            },
+            {
+                "str": "an",
+                "test": "chanter"
+            },
+            {
+                "str": "em",
+                "test": "tremper"
+            },
+            {
+                "str": "en",
+                "test": "prendre"
+            },
+            {
+                "str": "han",
+                "test": "déhancher"
+            }
+        ],
+        "end": [
+            {
+                "str": "aen",
+                "test": "Caen"
+            },
+            {
+                "str": "amp",
+                "test": "camp"
+            },
+            {
+                "str": "amps",
+                "test": "camps"
+            },
+            {
+                "str": "an",
+                "test": "palan"
+            },
+            {
+                "str": "anc",
+                "test": "banc"
+            },
+            {
+                "str": "ancs",
+                "test": "flancs"
+            },
+            {
+                "str": "and",
+                "test": "flamand"
+            },
+            {
+                "str": "ands",
+                "test": "allemands"
+            },
+            {
+                "str": "ang",
+                "test": "sang"
+            },
+            {
+                "str": "angs",
+                "test": "sangs"
+            },
+            {
+                "str": "ans",
+                "test": "dans"
+            },
+            {
+                "str": "ant",
+                "test": "marrant"
+            },
+            {
+                "str": "ants",
+                "test": "croissants"
+            },
+            {
+                "str": "aon",
+                "test": "faon paon"
+            },
+            {
+                "str": "aons",
+                "test": "faonspaons"
+            },
+            {
+                "str": "emps",
+                "test": "temps"
+            },
+            {
+                "str": "empt",
+                "test": "exempt"
+            },
+            {
+                "str": "empts",
+                "test": "exempts"
+            },
+            {
+                "str": "end",
+                "test": "il prend"
+            },
+            {
+                "str": "ends",
+                "test": "tu fends"
+            },
+            {
+                "str": "eng",
+                "test": "hareng"
+            },
+            {
+                "str": "engs",
+                "test": "harengs"
+            },
+            {
+                "str": "ens",
+                "test": "gens"
+            },
+            {
+                "str": "ent",
+                "test": "content"
+            },
+            {
+                "str": "ents",
+                "test": "cents"
+            },
+            {
+                "str": "han",
+                "test": "hihan"
+            }
+        ]
+    },
+    "[a]": {
+        "uniq": [
+            {
+                "str": "a",
+                "test": "il a"
+            },
+            {
+                "str": "à",
+                "test": "à"
+            },
+            {
+                "str": "ah",
+                "test": "ah"
+            },
+            {
+                "str": "as",
+                "test": "tu as"
+            },
+            {
+                "str": "ha",
+                "test": "ha"
+            }
+        ],
+        "front": [
+            {
+                "str": "a",
+                "test": "attirer"
+            },
+            {
+                "str": "ha",
+                "test": "hache"
+            },
+            {
+                "str": "â",
+                "test": "âtre âge"
+            },
+            {
+                "str": "hâ",
+                "test": "hâter"
+            }            
+        ],
+        "middle": [
+            {
+                "str": "a",
+                "test": "carré patte tache"
+            },
+            {
+                "str": "aë",
+                "test": "Madame de Staël"
+            },
+            {
+                "str": "ao",
+                "test": "paonne"
+            },
+            {
+                "str": "ha",
+                "test": "cohabiter"
+            },
+            {
+                "str": "â",
+                "test": "pâtes tâche"
+            },
+            {
+                "str": "am",
+                "test": "damner"
+            }            
+        ],
+        "end": [
+            {
+                "str": "a",
+                "test": "hourra"
+            },
+            {
+                "str": "à",
+                "test": "au-delà"
+            },
+            {
+                "str": "ac",
+                "test": "tabac"
+            },
+            {
+                "str": "acs",
+                "test": "entrelacs"
+            },
+            {
+                "str": "ah",
+                "test": "ouah"
+            },
+            {
+                "str": "as",
+                "test": "hourras"
+            },
+            {
+                "str": "at",
+                "test": "rat"
+            },
+            {
+                "str": "ats",
+                "test": "rats"
+            },
+            {
+                "str": "ars",
+                "test": "gars"
+            },
+            {
+                "str": "as",
+                "test": "cas"
+            },
+            {
+                "str": "âs",
+                "test": "mâs"
+            },
+            {
+                "str": "ât",
+                "test": "mât"
+            },
+            {
+                "str": "âts",
+                "test": "mâts"
+            }
+        ]
+    },
+    
+    "[ɛ][l]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "el",
+                "test": "rappel"
+            },
+            {
+                "str": "elle",
+                "test": "rappelle"
+            },
+            {
+                "str": "ellent",
+                "test": "rappellent"
+            },
+            {
+                "str": "els",
+                "test": "rappels"
+            },
+            {
+                "str": "elles",
+                "test": "rappelles"
+            }
+        ]
+    },
+    "[ʒ][e]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "gers",
+                "test": "dangers"
+            }
+        ]
+    },
+    "[ɛ][ʁ]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "erre",
+                "test": "verre"
+            },
+            {
+                "str": "ert",
+                "test": "vert"
+            },
+            {
+                "str": "ers",
+                "test": "vers"
+            }
+        ]
+    },
+    "[s][i][ɔ]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "tion",
+                "test": "désertion"
+            }   
+        ]
+    },
+    "[ə][m][ɑ]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ement",
+                "test": "comportement"
+            }   
+        ]
+    },
+    "[a][m][ɑ]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "emment",
+                "test": "apparemment"
+            }   
+        ]
+    },
+    "[u][i][t]": {
+        "uniq": [
+            {
+                "str": "huit",
+                "test": "huit"
+            }   
+        ],
+        "front": [
+            {
+                "str": "huit",
+                "test": "huitaine"
+            }   
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[a][q][u][a]": {
+        "uniq": [
+            {
+                "str": "aqua",
+                "test": "aqua"
+            }   
+        ],
+        "front": [
+            {
+                "str": "aqua",
+                "test": "aquarelle"
+            }   
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[m][ɑ]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "mment",
+                "test": "constamment"
+            }   
+        ]
+    },
+    "[e][f]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "eff",
+                "test": "effacer"
+            }            
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[i][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ix",
+                "test": "six"
+            }
+        ]
+    },
+    "[a][m]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "emme",
+                "test": "femme"
+            }
+        ]
+    },
+    "[e][f]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "eff",
+                "test": "inefficace"
+            }            
+        ],
+        "middle": [
+            {
+                "str": "eff",
+                "test": "inefficace"
+            }        
+        ],
+        "end": []
+    },
+    "[ɛ][g]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "eg",
+                "test": "eglise"
+            }        
+        ],
+        "middle": [],
+        "end": [
+            {
+                "str": "eg",
+                "test": "thalweg"
+            }        
+        ]
+    },
+    "[ɛ][f]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "ef",
+                "test": "efrit"
+            }        
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɛ][n]": {
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "enn",
+                "test": "prennent"
+            }        
+        ],
+        "end": []
+    },
+    "[n][i]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "gn",
+                "test": "gnon"
+            }            
+        ],
+        "middle": [
+            {
+                "str": "gn",
+                "test": "compagnon"
+            }            
+        ],
+        "end": []
+    },
+    "[k][ʁ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "chr",
+                "test": "chrétien"
+            }            
+        ],
+        "middle": [
+            {
+                "str": "chr",
+                "test": ""
+            }
+        ],
+        "end": []
+    },
+    "[t][i][µ]": {
+        "uniq": [],
+        "front": [
+            {
+                "str": "tien",
+                "test": "tient"
+            }            
+        ],
+        "middle": [
+            {
+                "str": "tien",
+                "test": "chrétien"
+            }
+        ],
+        "end": [
+            {
+                "str": "tien",
+                "test": "chrétien"
+            }
+        ]
+    },
+    "[o][z]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[o\\]\\[s\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[s][µ]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "cin",
+                "test": "cinq"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "cin",
+                "test": ""
+            }
+        ],
+        "end": [            
+            {
+                "str": "cin",
+                "test": ""
+            }
+        ]
+    },
+    "[e][s]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ess",
+                "test": "essayer"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɛ][i]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "ay",
+                "test": "essayer"
+            }
+        ],
+        "end": []
+    },
+    "[a][i]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "aill",
+                "test": "braillent"
+            }
+        ],
+        "end": []
+    },
+    "[g][ʁ][i]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "grill",
+                "test": "griller"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[f][i]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "fill",
+                "test": "fille"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[k][ə][i][ə]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "cueil",
+                "test": "cueillir"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "ccueil",
+                "test": "accueillir"
+            }
+        ],
+        "end": [            
+            {
+                "str": "ccueil",
+                "test": "accueil"
+            },
+            {
+                "str": "cueil",
+                "test": "recueil"
+            }
+        ]
+    },
+    "[i][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [            
+            {
+                "str": "ïs",
+                "test": "maïs"
+            }
+        ]
+    },
+    "[ɛ][k][s][t]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ext",
+                "test": "extraordinaire"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɛ][g][z][ɑ]": {
+        "uniq": [            
+            {
+                "str": "exempt",
+                "test": "exempt"
+            },
+            {
+                "str": "exempts",
+                "test": "exempts"
+            }
+        ],
+        "front": [            
+            {
+                "str": "exem",
+                "test": "exemple"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[d][e][z][ɛ][ʁ]": {
+        "uniq": [            
+            {
+                "str": "désert",
+                "test": "désert"
+            }
+        ],
+        "front": [            
+            {
+                "str": "déser",
+                "test": "désertion"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[a][b][a][k][s][s]": {
+        "uniq": [            
+            {
+                "str": "abax",
+                "test": "abax"
+            }
+        ],
+        "front": [],
+        "middle": [],
+        "end": []
+    },
+    "[a][k][s][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [            
+            {
+                "str": "ax",
+                "test": ""
+            }
+        ]
+    },
+    "[i][k][s][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [            
+            {
+                "str": "yx",
+                "test": "aptéryx"
+            }
+        ]
+    },
+    "[k][s][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [            
+            {
+                "str": "xe",
+                "test": "xéroxe"
+            }
+        ]
+    },
+    "[k][s][t]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "xt",
+                "test": "sixtus"
+            }
+        ],
+        "end": []
+    },
+    "[a][k][s][i]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "axi",
+                "test": "taxis"
+            }
+        ],
+        "end": [            
+            {
+                "str": "axi",
+                "test": "taxi"
+            }
+        ]
+    },
+    "[s][ɑ]": {
+        "uniq": [            
+            {
+                "str": "cent",
+                "test": "cent"
+            },
+            {
+                "str": "cents",
+                "test": "cents"
+            }
+        ],
+        "front": [            
+            {
+                "str": "cent",
+                "test": "cent"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[e][o]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "\\[ə\\]\\[o\\]",
+                "test": ""
+            }
+        ],
+        "end": []
+    },
+    "[ʒ][a]": {
+        "uniq": [],
+        "front": [],
+        "middle": [            
+            {
+                "str": "gea",
+                "test": ""
+            }
+        ],
+        "end": [            
+            {
+                "str": "gea",
+                "test": ""
+            },
+            {
+                "str": "geas",
+                "test": ""
+            }
+        ]
+    },
+    "[k][s]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "x",
+                "test": "xiphodyme"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɛ][k][s][s]": {
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [            
+            {
+                "str": "ex",
+                "test": "apex"
+            }
+        ]
+    },
+    "[ɛ][k]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ec",
+                "test": "ecbolique"
+            },
+            {
+                "str": "ek",
+                "test": "ekphonétique"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "eak",
+                "test": "breaking"
+            }
+        ],
+        "end": [            
+            {
+                "str": "eak",
+                "test": "break"
+            }
+        ]
+    },
+    "[ɛ][d]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ed",
+                "test": "edgar"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "ead",
+                "test": "dreadlocks"
+            }
+        ],
+        "end": [            
+            {
+                "str": "ead",
+                "test": "dead"
+            }
+        ]
+    },
+    "[ɛ][b]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "eb",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ə][ʁ]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ear",
+                "test": "earl"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[e][k]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "ecch",
+                "test": "ecchymose"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[e][ʒ]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "e\\[ʒ\\]",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɑ][m]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "emm",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ɑ][n][i][v]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "eniv",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[e][a]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "eniv",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": [            
+            {
+                "str": "e\\[a\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[g][z][e]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "xé",
+                "test": "xéroxe"
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[i][g]": {
+        "uniq": [],
+        "front": [            
+            {
+                "str": "eag",
+                "test": "eagle"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "eag",
+                "test": "league"
+            }
+        ],
+        "end": []
+    },
+    "[s][o]": {
+        "uniq": [            
+            {
+                "str": "sceau",
+                "test": "sceau"
+            },
+            {
+                "str": "sceaux",
+                "test": "sceaux"
+            },
+            {
+                "str": "ceau",
+                "test": "ceau"
+            },
+            {
+                "str": "ceaux",
+                "test": "ceaux"
+            }
+        ],
+        "front": [            
+            {
+                "str": "ceau",
+                "test": "ceau"
+            }
+        ],
+        "middle": [            
+            {
+                "str": "ceau",
+                "test": "ceau"
+            }
+        ],
+        "end": [            
+            {
+                "str": "ceau",
+                "test": "ceau"
+            },
+            {
+                "str": "ceaux",
+                "test": "ceaux"
+            }
+        ]
+    },
+
+    "[f]_1": {
+        "symbol": "[f]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[f\\]\\[ə\\]",
+                "test": ""
+            },
+            {
+                "str": "\\[f\\]\\[s\\]",
+                "test": ""
+            }        
+        ]
+    },
+    "[p]_1": {
+        "symbol": "[p]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[p\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[b]_1": {
+        "symbol": "[b]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[b\\]\\[s\\]",
+                "test": ""
+            },
+            {
+                "str": "\\[b\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[m]_1": {
+        "symbol": "[m]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[m\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[l]_1": {
+        "symbol": "[l]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[l\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[n]_1": {
+        "symbol": "[n]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[n\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[v]_1": {
+        "symbol": "[v]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[v\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[t]_1": {
+        "symbol": "[t]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[t\\]\\[ə\\]",
+                "test": ""
+            },
+            {
+                "str": "\\[t\\]\\[s\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[d]_1": {
+        "symbol": "[d]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[d\\]\\[s\\]",
+                "test": ""
+            },
+            {
+                "str": "\\[d\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[k]_1": {
+        "symbol": "[k]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "\\[k\\]\\[k\\]",
+                "test": ""
+            }
+        ],
+        "end": [
+            {
+                "str": "\\[k\\]\\[ə\\]",
+                "test": "" 
+            },
+            {
+                "str": "\\[k\\]\\[s\\]",
+                "test": "" 
+            }
+        ]
+    },
+    "[e]_1": {
+        "symbol": "[e]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[e\\]\\[ə\\]",
+                "test": "" 
+            }
+        ]
+    },
+    "[ʁ]_1": {
+        "symbol": "[ʁ]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "\\[ʁ\\]\\[ʁ\\]",
+                "test": ""
+            }
+        ],
+        "end": [
+            {
+                "str": "\\[ʁ\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[z]_1": {
+        "symbol": "[z]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[z\\]\\[ə\\]",
+                "test": ""
+            },
+            {
+                "str": "\\[s\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[z]_11": {
+        "symbol": "][z][",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "\\]x\\[",
+                "test": ""
+            }
+        ],
+        "end": []
+    },
+    "[g]_1": {
+        "symbol": "[g]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[g\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[ə]_1": {
+        "symbol": "[ə]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[ə\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[ɑ]_1": {
+        "symbol": "[ɑ]",
+        "uniq": [],
+        "front": [
+            {
+                "str": "e\\[m\\]",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[y]_1": {
+        "symbol": "[y]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[y\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[y]_11": {
+        "symbol": "[y]",
+        "uniq": [
+            {
+                "str": "e\\[y\\]",
+                "test": ""
+            }
+        ],
+        "front": [
+            {
+                "str": "e\\[y\\]",
+                "test": ""
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    "[ʃ]_1": {
+        "symbol": "[ʃ]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[ʃ\\]\\[ə\\]",
+                "test": ""
+            }
+        ]
+    },
+    "[s]_1": {
+        "symbol": "[s]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[s\\]\\[s\\]",
+                "test": ""
+            }
+        ]
+    },
+
+    "[ə]_0": {
+        "symbol": "[ə]",
+        "uniq": [
+            {
+                "str": "œufs",
+                "test": "des œufs"
+            }
+        ],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ent",
+                "test": ""
+            },
+            {
+                "str": "œufs",
+                "test": "bœufs"
+            },
+            {
+                "str": "œu",
+                "test": "vœu"
+            },
+            {
+                "str": "œux",
+                "test": "vœux"
+            }
+        ]
+    },
+    "[əə]_0": {
+        "symbol": "[əə]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "eux",
+                "test": "heureux"
+            },
+            {
+                "str": "eus",
+                "test": "pneus"
+            },
+            {
+                "str": "eu",
+                "test": "pneu"
+            }
+        ]
+    },
+    "[s]_0": {
+        "symbol": "[s]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "sse",
+                "test": "brosse"
+            },
+            {
+                "str": "sses",
+                "test": "brosses"
+            },
+            {
+                "str": "ssent",
+                "test": "laissent"
+            },
+            {
+                "str": "cent",
+                "test": "rincent"
+            },
+            {
+                "str": "ces",
+                "test": "pinces"
+            },
+            {
+                "str": "ce",
+                "test": "pince"
+            },
+            {
+                "str": "ses",
+                "test": "torses"
+            },
+            {
+                "str": "se",
+                "test": "morse"
+            }
+        ]
+    },
+    "[ʁ]_0": {
+        "symbol": "[ʁ]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "rd",
+                "test": "canard"
+            },
+            {
+                "str": "rds",
+                "test": "pinards"
+            },
+            {
+                "str": "rts",
+                "test": "arts"
+            },
+            {
+                "str": "rfs",
+                "test": "cerfs"
+            },
+            {
+                "str": "rc",
+                "test": "porc"
+            },
+            {
+                "str": "rs",
+                "test": "alors"
+            }
+        ]
+    },
+    "[µ]_0": {
+        "symbol": "[µ]",
+        "uniq": [
+            {
+                "str": "ain",
+                "test": "ain"
+            }
+        ],
+        "front": [
+            {
+                "str": "hum",
+                "test": "humble"
+            }
+        ],
+        "middle": [
+            {
+                "str": "ym",
+                "test": "sympathique"
+            }
+        ],
+        "end": [
+            {
+                "str": "um",
+                "test": "parfum"
+            },
+            {
+                "str": "ums",
+                "test": "parfums"
+            }
+        ]
+    },
+    "[k]_0": {
+        "symbol": "[k]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "cch",
+                "test": "saccharose" 
+            }
+        ],
+        "end": [
+            {
+                "str": "que",
+                "test": "brique" 
+            },
+            {
+                "str": "ques",
+                "test": "briques" 
+            }
+        ]
+    },
+    "[u]_0": {
+        "symbol": "[u]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "oo",
+                "test": "zoom" 
+            }
+        ],
+        "end": [
+            {
+                "str": "oo",
+                "test": "zoo" 
+            },
+            {
+                "str": "ouent",
+                "test": "louent" 
+            },
+            {
+                "str": "oug",
+                "test": "joug" 
+            },
+            {
+                "str": "ougs",
+                "test": "jougs" 
+            }
+        ]
+    },
+    "[o]_0": {
+        "symbol": "[o]",
+        "uniq": [
+            {
+                "str": "au",
+                "test": "au" 
+            }
+        ],
+        "front": [],
+        "middle": [
+            {
+                "str": "eau",
+                "test": "chateauneuf" 
+            }
+        ],
+        "end": [
+            {
+                "str": "aut",
+                "test": "aut" 
+            },
+            {
+                "str": "auts",
+                "test": "auts" 
+            },
+            {
+                "str": "ot",
+                "test": "mot" 
+            },
+            {
+                "str": "ots",
+                "test": "mots" 
+            },
+            {
+                "str": "aud",
+                "test": "chaud" 
+            },
+            {
+                "str": "auds",
+                "test": "chauds" 
+            },
+            {
+                "str": "os",
+                "test": "enclos" 
+            },
+            {
+                "str": "eaux",
+                "test": "morceaux" 
+            }
+        ]
+    },
+    "[y]_0": {
+        "symbol": "[y]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "uent",
+                "test": "muent" 
+            },
+            {
+                "str": "ues",
+                "test": "cohues" 
+            },
+            {
+                "str": "hue",
+                "test": "cohue"
+            },
+            {
+                "str": "hues",
+                "test": "cohues"
+            },
+            {
+                "str": "hus",
+                "test": "tohu-bohus"
+            },
+            {
+                "str": "uts",
+                "test": "tohu-bohus"
+            },
+            {
+                "str": "us",
+                "test": ""
+            },
+            {
+                "str": "ûs",
+                "test": ""
+            }
+        ]
+    },
+    "[ɔ]_0": {
+        "symbol": "[ɔ]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ong",
+                "test": "long" 
+            },
+            {
+                "str": "ongs",
+                "test": "longs" 
+            },
+            {
+                "str": "on",
+                "test": "lon" 
+            }
+        ]
+    },
+    "[ɑ]_0": {
+        "symbol": "[ɑ]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "em",
+                "test": "tremper" 
+            }
+        ],
+        "end": [
+            {
+                "str": "ang",
+                "test": "sang" 
+            },
+            {
+                "str": "angs",
+                "test": "sangs" 
+            },
+            {
+                "str": "eng",
+                "test": "" 
+            },
+            {
+                "str": "engs",
+                "test": "" 
+            },
+            {
+                "str": "amp",
+                "test": "camps" 
+            },
+            {
+                "str": "amps",
+                "test": "camps" 
+            },
+            {
+                "str": "emps",
+                "test": "temps" 
+            },
+            {
+                "str": "empts",
+                "test": "exempts" 
+            }
+        ]
+    },
+    "[a]_0": {
+        "symbol": "[a]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ât",
+                "test": "mât" 
+            },
+            {
+                "str": "âts",
+                "test": "mâts" 
+            },
+            {
+                "str": "at",
+                "test": "rat" 
+            },
+            {
+                "str": "ats",
+                "test": "rats" 
+            },
+            {
+                "str": "ars",
+                "test": "gars" 
+            },
+            {
+                "str": "âs",
+                "test": "" 
+            },
+            {
+                "str": "as",
+                "test": "" 
+            }
+        ]
+    },
+    "[i]_0": {
+        "symbol": "[i]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "ix",
+                "test": "prix" 
+            }
+        ]
+    },
+    "[e]_0": {
+        "symbol": "[e]",
+        "uniq": [],
+        "front": [
+            {
+                "str": "e",
+                "test": "enamourai" 
+            }
+        ],
+        "middle": [],
+        "end": []
+    },
+    
+    "[ə]_01": {
+        "symbol": "[ə]",
+        "uniq": [],
+        "front": [],
+        "middle": [
+            {
+                "str": "eu",
+                "test": "déjeuner"
+            }
+        ],
+        "end": []
+    },
+    "[əə]_01": {
+        "symbol": "[ə]",
+        "uniq": [],
+        "front": [],
+        "middle": [],
+        "end": [
+            {
+                "str": "\\[əə\\]",
+                "test": "heureux"
+            }
+        ]
+    },
+
+    "extra": {
+        "uniq": [
+            {
+                "symbol": "[y]",
+                "str": "eues",
+                "test": "eues"
+            },
+            {
+                "symbol": "[ɛ][g][z][a][m][µ]",
+                "str": "examen",
+                "test": "examen"
+            },
+            {
+                "symbol": "[ɛ][g][z][a][m][µ]",
+                "str": "examens",
+                "test": "examens"
+            },
+            {
+                "symbol": "[v][i][µ]",
+                "str": "vient",
+                "test": "vient"
+            },
+            {
+                "symbol": "[a][b][ɛ][i]",
+                "str": "abbaye",
+                "test": "abbaye"
+            },
+            {
+                "symbol": "[d][ʁ][a]",
+                "str": "drap",
+                "test": "drap"
+            },
+            {
+                "symbol": "[k][ɔ][t]",
+                "str": "compte",
+                "test": "compte"
+            },
+            {
+                "symbol": "[i][o][t]",
+                "str": "yacht",
+                "test": "yacht"
+            },
+            {
+                "symbol": "[u][a][t]",
+                "str": "watt",
+                "test": "watt"
+            },
+            {
+                "symbol": "[o][t][o][n]",
+                "str": "automne",
+                "test": "automne"
+            },
+            {
+                "symbol": "[o][n][i][ɔ]",
+                "str": "oignon",
+                "test": "oignon"
+            },
+            {
+                "symbol": "[t][ʁ][ɛ]",
+                "str": "tres",
+                "test": "tres"
+            },
+            {
+                "symbol": "[o][ʁ][o][k]",
+                "str": "auroch",
+                "test": "auroch"
+            },
+            {
+                "symbol": "[ʁ][a][k][ɛ][t]",
+                "str": "racket",
+                "test": "racket"
+            },
+            {
+                "symbol": "[ʁ][a]",
+                "str": "raz",
+                "test": "raz"
+            },
+            {
+                "symbol": "[p][o][ʁ]",
+                "str": "porcs",
+                "test": "porcs"
+            },
+            {
+                "symbol": "[k][o][ʁ]",
+                "str": "corps",
+                "test": "corps"
+            },
+            {
+                "symbol": "[a][l][i][m][ɑ]",
+                "str": "aliment",
+                "test": "aliment"
+            },
+            {
+                "symbol": "[i][a][u][ʁ][t]",
+                "str": "yaourt",
+                "test": "yaourt"
+            },
+            {
+                "symbol": "[k][a][k][a][u][ɛ][t]",
+                "str": "cacahuète",
+                "test": "cacahuète"
+            },
+            {
+                "symbol": "[f][e][ʁ][i]",
+                "str": "ferry",
+                "test": "ferry"
+            },
+            {
+                "symbol": "[f][e][ʁ][i]",
+                "str": "ferrys",
+                "test": "ferrys"
+            },
+            {
+                "symbol": "[y][s]",
+                "str": "eusse",
+                "test": "eusse"
+            },
+            {
+                "symbol": "[k][y]",
+                "str": "culs",
+                "test": "culs"
+            },
+            {
+                "symbol": "[k][y]",
+                "str": "cul",
+                "test": "cul"
+            },
+            {
+                "symbol": "[ɛ][g][y]",
+                "str": "aiguë",
+                "test": "aiguë"
+            },
+            {
+                "symbol": "[i][a][t][y][s]",
+                "str": "hiatus",
+                "test": "hiatus"
+            },
+            {
+                "symbol": "[f][e][t][y][s]",
+                "str": "fœtus",
+                "test": "fœtus"
+            },
+            {
+                "symbol": "[a][l][k][o][l]",
+                "str": "alcool",
+                "test": "alcool"
+            },
+            {
+                "symbol": "[a][s][o][i][ʁ]",
+                "str": "asseoir",
+                "test": "asseoir"
+            },
+            {
+                "symbol": "[e][k][o]",
+                "str": "écho",
+                "test": "écho"
+            },
+            {
+                "symbol": "[f][a][m]",
+                "str": "femme",
+                "test": "femme"
+            },
+            {
+                "symbol": "[f][ɑ]",
+                "str": "faon",
+                "test": "faon"
+            },
+            {
+                "symbol": "[p][ɑ]",
+                "str": "paon",
+                "test": "paon"
+            },
+            {
+                "symbol": "[ɛ][g][z][ɑ]",
+                "str": "exempt",
+                "test": "exempt"
+            },
+            {
+                "symbol": "[a][n][a][n][a][s]",
+                "str": "ananas",
+                "test": "ananas"
+            },
+            {
+                "symbol": "[e][l][a][s]",
+                "str": "hélas",
+                "test": "hélas"
+            },
+            {
+                "symbol": "[t][a][b][a]",
+                "str": "tabac",
+                "test": "tabac"
+            },
+            {
+                "symbol": "[y][i][t]",
+                "str": "huit",
+                "test": "huit"
+            },
+            {
+                "symbol": "[p][a][d][i][ʃ][a]",
+                "str": "padishahs",
+                "test": "padishahs"
+            },
+            {
+                "symbol": "[f][e][n][i][k][s]",
+                "str": "phoenix",
+                "test": "phoenix"
+            }
+        ],
+        "front": [
+            {
+                "symbol": "[i][o][t]",
+                "str": "yacht",
+                "test": "yacht"
+            },
+            {
+                "symbol": "[u][a][t]",
+                "str": "watt",
+                "test": "watt"
+            },
+            {
+                "symbol": "[o][n][i][ɔ]",
+                "str": "oignon",
+                "test": "oignon"
+            },
+            {
+                "symbol": "[o][ʁ][o][k]",
+                "str": "auroch",
+                "test": "auroch"
+            },
+            {
+                "symbol": "[ʁ][a][k][ɛ][t]",
+                "str": "racket",
+                "test": "racket"
+            },
+            {
+                "symbol": "[a][l][i][m][ɑ]",
+                "str": "aliment",
+                "test": "aliment"
+            },
+            {
+                "symbol": "[i][a][u][ʁ][t]",
+                "str": "yaourt",
+                "test": "yaourt"
+            },
+            {
+                "symbol": "[k][a][k][a][u][ɛ][t]",
+                "str": "cacahuète",
+                "test": "cacahuète"
+            },
+            {
+                "symbol": "[a][l][k][o][l]",
+                "str": "alcool",
+                "test": "alcool"
+            },
+            {
+                "symbol": "[f][ɑ]",
+                "str": "faon",
+                "test": "faon"
+            },
+            {
+                "symbol": "[p][ɑ]",
+                "str": "paon",
+                "test": "paon"
+            },
+            {
+                "symbol": "[y][i][t]",
+                "str": "huit",
+                "test": "huit"
+            }
+        ],
+        "middle": [],
+        "end": []
+    }
+}
