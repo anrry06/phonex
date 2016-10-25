@@ -1,6 +1,6 @@
 {
   "name": "phonex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform a text into phonetic alphabet",
   "main": "index.js",
   "scripts": {

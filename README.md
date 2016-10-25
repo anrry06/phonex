@@ -2,6 +2,8 @@
 
 Transform a text into phonetic alphabet
 
+[![NPM](https://nodei.co/npm/phonex.png)](https://nodei.co/npm/phonex/)
+
 ##Example
 
 ```javascript
