@@ -753,6 +753,10 @@ for(var test in tests){
 
 console.log(phonex.get('enceinte'));
 
+/*
+    Parsing of the main data to check for regression
+*/
+
 // var apiPhonex = require('./api_phonex.json');
 // var counter = -1;
 // for(var k in apiPhonex){
